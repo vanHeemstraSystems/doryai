@@ -1,7 +1,7 @@
-repository-name
-# Repository Name
+doryai
+# DoryAI
 
-Based on "ABC" at https://www.abc.com/
+Based on "DoryAI" at https://www.getdoryai.com/
 
 ## 100 - Introduction
 
